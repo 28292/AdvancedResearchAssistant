@@ -1,0 +1,9 @@
+streamlit
+openai
+langchain
+faiss-cpu
+google-search-results
+python-dotenv
+pandas
+pdfplumber
+docx2txt
